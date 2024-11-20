@@ -9,5 +9,10 @@ public class SolarSystemBase {
         basicSystem.distance="13636456";
 
         System.out.println(basicSystem.color + " " + basicSystem.distance);
+        featureSun featureSun=new featureSun();
+
+        featureSun.speed=1234;
+        featureSun.time=4;
+        featureSun.year=2025;
     }
 }
