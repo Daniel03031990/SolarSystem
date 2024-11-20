@@ -14,5 +14,11 @@ public class SolarSystemBase {
         featureSun.speed=1234;
         featureSun.time=4;
         featureSun.year=2025;
+
+        planet1 planet1=new planet1();
+
+        planet1.sun="Red and hot";
+        planet1.gravity="unpredicatble";
+        planet1.stars="billions";
     }
 }
